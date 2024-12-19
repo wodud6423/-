@@ -72,13 +72,13 @@ A smart ventilator system designed to automatically adjust fan speed based on re
 ## 🎥 Demonstrations
 ### **Demo Screenshots**
 #### 1. **Very Uncomfortable (Red LED)**
-![Very Uncomfortable](demo_red.png)
+![Very Uncomfortable](img/Test_Red.png)
 
 #### 2. **Uncomfortable (Yellow LED)**
-![Uncomfortable](demo_yellow.png)
+![Uncomfortable](img/Test_Yellow.png)
 
 #### 3. **Moderate/Comfortable (Green LED)**
-![Moderate](demo_green.png)
+![Moderate](img/Test_Green.png)
 
 ---
 
