@@ -64,6 +64,9 @@ A smart ventilator system designed to automatically adjust fan speed based on re
 
 ![System Diagram](img/System_Architecture.png)
 
+### Communication Architecture 
+![System Diagram](img/System_Architecture_Communication.png)
+
 ---
 
 ## 🎥 Demonstrations
