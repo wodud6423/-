@@ -118,8 +118,8 @@ A smart ventilator system designed to automatically adjust fan speed based on re
 
 ## 📞 Contact Us
 For any queries or collaborations, reach out to:  
-📧 **[team@example.com](mailto:team@example.com)**  
-🌐 **[GitHub Repository](https://github.com/your-repo-link)**
+📧 **[team@example.com](염재영:wodud043@naver.com)**  
+🌐 **[GitHub Repository](https://github.com/wodud6423)**
 
 ---
 
