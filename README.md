@@ -62,7 +62,7 @@ A smart ventilator system designed to automatically adjust fan speed based on re
 - **Network Components**:
   - MySQL/MariaDB for real-time database management.
 
-![System Diagram](system_architecture.png)
+![System Diagram](img/System_Architecture.png)
 
 ---
 
